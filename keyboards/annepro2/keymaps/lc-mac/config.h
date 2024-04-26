@@ -1,7 +1,8 @@
 // My options
 
 // https://github.com/qmk/qmk_firmware/blob/master/docs/feature_grave_esc.md
-// #define GRAVE_ESC_ALT_OVERRIDE
+#define GRAVE_ESC_GUI_OVERRIDE
+#define GRAVE_ESC_ALT_OVERRIDE
 
 // https://github.com/qmk/qmk_firmware/blob/master/docs/tap_hold.md#permissive-hold
 // #define PERMISSIVE_HOLD
