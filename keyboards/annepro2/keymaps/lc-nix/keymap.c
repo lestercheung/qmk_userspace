@@ -15,7 +15,7 @@
   */
 
 #include QMK_KEYBOARD_H
-#include "../../../../users/lestercheung/lc_combos.h"
+// #include "../../../../users/lestercheung/lc_combos.h"
 // #include "../../../../users/lestercheung/lc_tapdance.h"
 
 enum anne_pro_layers {
